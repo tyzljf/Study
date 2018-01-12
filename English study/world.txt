@@ -1,0 +1,54 @@
+decision: 决心，决议，决策
+maturity：成熟；完备；（票据等的）到期；（地）壮年期
+principally：主要的，大部分
+authorize：授权，批准，委托
+commitment：承诺，许诺；委任，委托；致力，献身；承担义务
+clarification：净化；（液体的）澄清；澄清法；（意义等的）澄清、说明
+terminology：术语
+motivation：动机，激励
+
+2018/1/10
+chassis: （车辆的）底盘；（飞机的）起落架；炮底架；（无线电、电视等的）底架
+glossary: （书尾的）词汇表，难词汇编
+coupling: 联结；[电]耦合；[机]管箍；（火车的）车钩
+dedicated: 专用的；专注的，投入的；奉献的；奉献
+combo: 小型爵士队，小型伴舞乐队；套餐、三明治等的混合物
+withdraw: 撤销，收回
+infrastructure: 基础设施；基础建设
+decouple
+	v.    减弱（核爆炸）震波；解耦
+
+2018/1/11
+prerequisite: 
+	n. 先决条件，前提，必要条件
+	adj. 必须先具备的，必要的；先决条件
+proposed
+	adj.  被提议的，所推荐的
+	v.    提议，建议( propose的过去式和过去分词 );打算;提供（解释）;提出（行动，计划或供表决的方案等） 
+scenarios
+	n.    [意]情节;剧本;事态;脚本 
+dedicated
+	adj.  专用的;专注的，投入的;献身的
+	v.    奉献(dedicate的过去式和过去分词)
+detected
+	vt.   [无]对…检波
+	v.    发现，发觉，查明( detect的过去式和过去分词 ) 
+lessen
+	vi.   变少，减少;贬低，轻视，看不起
+	vt.   减少（某事物），缩小
+multiplex
+	adj.  多元的，多倍的，复式的;多部的，复合的，多样的，多重的;；[电讯]多路传输的
+	n.    多路;多厅影院，多剧场影剧院
+	v.    多路传输，多路复用;多重发讯 
+impact
+	n.    影响;碰撞，冲击，撞击;冲击力
+	vt.   撞击;挤入，压紧;对…产生影响
+	vi.   产生影响;冲撞，冲击 
+appendix
+	n.    附录;阑尾;附加物
+	
+2018/1/12
+excessive
+	adj.  过多的;过分的;过度的，极度的;过逾 
+invocation
+	n.    祈祷;乞求;乞灵;乞求神助;调用
