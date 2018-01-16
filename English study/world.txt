@@ -58,3 +58,53 @@ hierarchy
 	n. 	  层级；等级制度
 candidate
 	n. 	  报考者;申请求职者;攻读学位者;最后命运或结局如何已显然可见者 
+	
+2018/1/16
+Principles
+	n.    原则;原理;准则;道义;节操;原则( principle的名词复数 );工作原理;[P-]（基督教科学派信奉的）神圣的原理 
+Guidelines
+	n.    准则;指导方针;指导原则;行动纲领;参考;指导方针( guideline的名词复数 );指导原则;行动纲领 
+approach
+	vt.& vi.    接近，走近，靠近
+	vt.   接近;着手处理;使移近;试图贿赂（或影响，疏通）
+	n.    方法;途径;接近
+	vi.   靠近 
+Methodology
+	n.    方法论;方法学;（从事某一活动的）一套方法 
+collaboration
+	n.    合作，协作;通敌，勾结
+vision
+	n.    视力，视觉;美景，绝妙的东西;幻影;想像力
+	vt.   在幻觉中看到;幻想，想象;梦见 
+enablers
+	n. 	  促成事情成功的人或因素（enabler的复数）
+extensive
+	adj.  广阔的，广大的;范围广泛的;[物]广延的;[逻]外延的 
+orthogonal
+	adj.  [数]直角的;矩形的;直交的;互相垂直的 
+dimensions
+	vi.   按规格尺寸切割      
+	vt.   在…上标尺寸   
+    n.    规模;方面;面积;特点;（长、宽、厚、高等的）尺寸;重要性;尺寸( dimension的名词复数 );（长、宽、高的）量度 
+characteristic
+	adj.  特有的;独特的;表示特性的;显示…的特征的 
+	n.    特性，特征，特色，[数]（对数的）首数;独特性;性质 
+robustness
+	n. 	  坚固性，健壮性 
+interoperability
+	n. 	  [计] 互操作性；互用性
+conjunction
+	n.    连接;连词;联合，结合物;（恒星、行星等的）合
+outcome
+	n.    结果;成果;出路 
+accountable
+	adj.  负有责任的，应对自己的行为做出说明的;可解释的;有解释义务的;可说明的 
+Constraints
+	n.    约束;限制;强制( constraint的名词复数 ) 
+seldom
+	adv.  难得;很少，罕见;不大 
+milestone
+	n.    里程碑;划时代事件
+significant
+	adj.  重要的;有意义的;有重大意义的;值得注意的
+	n.    有意义的事物;象征，标志
